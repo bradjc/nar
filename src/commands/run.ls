@@ -13,6 +13,7 @@ program
   .option '-o, --output <path>', 'Output directory'
   .option '-d, --debug', 'Enable debud mode. More information will be shown'
   .option '-v, --verbose', 'Enable verbose  mode. Will output stdout and stderr'
+  .option '-q, --quiet', 'Ensure
   .option '-as, --args-start <args>', 'Aditional arguments to pass to start command'
   .option '-ap, --args-prestart <args>', 'Aditional arguments to pass to prestart command'
   .option '-as, --args-stop <args>', 'Aditional arguments to pass to stop command'
